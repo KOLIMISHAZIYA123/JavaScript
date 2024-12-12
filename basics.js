@@ -1,7 +1,7 @@
-const name="Allah"
+const name="Shaziya"
 let age=30
-var phone=9959015315
-native="GRT"
+var phone=9890898899
+native="Kurnool"
 //prefer not to use var because osf issue of block scope and function scope
 console.table([name,age,phone,native])
 //number => 2 power 53
